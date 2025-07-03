@@ -1,6 +1,6 @@
-# 📊 [Power-Bi-Sales-Dashboard] ()
+# 📊 Power-Bi-Sales-Dashboard
 
-## Sales Analysis: Global Superstore Insights Dashboard
+## [Sales Analysis: Global Superstore Insights Dashboard](https://github.com/pallavibarange31/power-bi-sales-dashboard/commit/d6cc6e340ff54421cef4eef8bc001fceae1230f7)
 
 This is a fully interactive **Power BI Dashboard** built using the **Global Superstore dataset**.  
 
