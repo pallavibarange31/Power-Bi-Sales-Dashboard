@@ -8,9 +8,7 @@ This is a fully interactive **Power BI Dashboard** built using the **Global Supe
 
 This project demonstrates the ability to transform raw sales data into a dynamic and insightful dashboard that supports strategic decision-making. It focuses on:
 
-## 📷 Dashboard Preview
-
-*Screenshots or preview images should be added here*
+## 📷 [Dashboard Preview](https://github.com/pallavibarange31/power-bi-sales-dashboard/blob/main/Sales.gif)
 
 
 ### 📊 Page 1: Executive Summary Dashboard
